@@ -1,5 +1,0 @@
-print(28)
-print(type(28))
-print(0b11100)
-print(0o34)
-print(0x1c)
